@@ -1,4 +1,4 @@
-### Current Project: Solar System Simulation
+### Current Projects: Solar System Simulation, Valorant Item Store Checker
 
 <!--
 **Illogicalll/Illogicalll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
