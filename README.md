@@ -1,5 +1,9 @@
 ### Current Projects: Solar System Simulation, Valorant Item Store Checker
 
+<a style="float:right;">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Illogicalll&layout=compact&theme=dark&" />
+</a>
+
 <!--
 **Illogicalll/Illogicalll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
