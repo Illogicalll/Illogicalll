@@ -1,4 +1,4 @@
-### Current Projects: Solar System Simulation, Valorant Item Store Checker
+### Current Projects: Solar System Simulation
 
 <a style="float:right;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Illogicalll&layout=compact&theme=dark&" />
