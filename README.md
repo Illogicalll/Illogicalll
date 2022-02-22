@@ -1,4 +1,4 @@
-### Current Projects: Solar System Simulation
+### Current Projects: VALORANT Discord RPC
 
 <a style="float:right;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Illogicalll&layout=compact&theme=dark&" />
