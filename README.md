@@ -1,4 +1,8 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Illogicalll&label=Profile%20views&color=0e75b6&style=flat" alt="Illogicalll" /> </p>
+<h1 align="center">Will Murphy</h1>
+<h3 align="center">Computer Science Student</h3>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Illogicalll&label=Profile%20views&color=0e75b6&style=flat" alt="Illogicalll" /> </p>
+
 
 ### Current Projects: VALORANT Discord RPC
 
