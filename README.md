@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Illogicalll&label=Profile%20views&color=0e75b6&style=flat" alt="Illogicalll" /> </p>
+
 ### Current Projects: VALORANT Discord RPC
 
 <a style="float:right;">
