@@ -20,21 +20,22 @@ Illogicalll#4467
 </br>
 <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="williamalexandermurphy1@gmail.com"/>
 </br>
-williamalexandermurphy1@gmail.com
+contact@w-murphy.com
 
 <h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.python.org" target="_blank" rel="noreferrer">  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python"/> </a> <a href="https://openjdk.org/" target"_blank" rel="norefferer"> <img src="https://img.shields.io/badge/OpenJDK-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java"/> </a> <a href="https://en.wikipedia.org/wiki/HTML" target="_blank" rel="noreferrer">  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/> </a> <a href="https://en.wikipedia.org/wiki/CSS" target="_blank" rel="noreferrer">  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/> </a> <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="Premiere Pro" /> </a> <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="Photoshop"/> </a> </p>
-<!--
-**Illogicalll/Illogicalll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python"/> </a> 
+  <a href="https://openjdk.org/" target"_blank" rel="norefferer"> <img src="https://img.shields.io/badge/OpenJDK-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java"/> </a> 
+  <a href="https://en.wikipedia.org/wiki/HTML" target="_blank" rel="noreferrer">  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/> </a>
+  <a href="https://en.wikipedia.org/wiki/CSS" target="_blank" rel="noreferrer">  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/> </a> 
+  <a href="https://react.dev/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> </a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="Django" /> </a>
+  <a href="https://svelte.dev/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" alt="Svelte" /> </a>
+  <a href="https://kit.svelte.dev/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=Svelte&logoColor=white" alt="SvelteKit" /> </a>
+  <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="Premiere Pro" /> </a> 
+  <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="Photoshop"/> </a> 
+</p>
